@@ -15,4 +15,4 @@ var destructivelyRemoveFirstKitten = kittens.unshift();
 
 #var removeLastKitten =
 
-#var removeFirstKitten = 
+#var removeFirstKitten =
