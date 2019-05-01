@@ -8,4 +8,3 @@ var destructivelyPrependKitten = kittens.prepend();
 var destructivelyRemoveLastKitten = kittens.pop();
 
 var destructivelyRemoveFirstKitten = kittens.unshift();
-
