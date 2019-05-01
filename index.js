@@ -24,6 +24,5 @@ function appendKitten(name) {
 }
 
 function prependKitten(name) {
-  arr = [name]
-  return arr.concat(kittens)
+  kittens.slice().unshift(name)
 }
