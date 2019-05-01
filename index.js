@@ -9,10 +9,3 @@ var destructivelyRemoveLastKitten = kittens.pop();
 
 var destructivelyRemoveFirstKitten = kittens.unshift();
 
-# var appendKitten =
-
-#var prependKitten =
-
-#var removeLastKitten =
-
-#var removeFirstKitten =
